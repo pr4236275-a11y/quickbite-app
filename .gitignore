@@ -1,0 +1,23 @@
+# Build artifacts
+target/
+*.war
+*.jar
+*.class
+
+# Node & Vercel
+node_modules/
+.vercel/
+
+# Logs & temp files
+*.log
+.system_generated/
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project

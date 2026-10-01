@@ -1,0 +1,7 @@
+target/
+database/
+*.log
+*.war
+src/main/java/
+pom.xml
+.system_generated/
