@@ -1,6 +1,6 @@
-# 🛒 Blinkit - Online Food Ordering Web Application
+# 🛒 QuickBite- Online Food Ordering Web Application
 
-A full-stack **Online Food Ordering System** designed with the **Blinkit UI & Brand Experience** (Yellow `#F8CB46` & Emerald Green `#0C831F`). Built strictly following standard Enterprise Java MVC architecture without Spring, Hibernate, or React.
+A full-stack **Online Food Ordering System Built strictly following standard Enterprise Java MVC architecture without Spring, Hibernate, or React.
 
 ---
 
